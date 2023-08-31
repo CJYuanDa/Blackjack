@@ -1,4 +1,4 @@
-print('Welcome to play Blackjack')
+print('Welcome to play Blackjack\n')
 
 import random
 import time
